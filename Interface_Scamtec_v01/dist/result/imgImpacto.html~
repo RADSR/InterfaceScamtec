@@ -13,6 +13,8 @@
 		#FraseAcimaDoQuadradoPai2 {Position: absolute;margin-top:30px;margin-left:650px;}
 		.QuadradoPai2e3 {margin-top:50px;margin-left:50px; width:350px; height:740px; border: 1px solid #000000;float:left}
 		#FraseAcimaDoQuadradoPai3 {Position: absolute;margin-top:30px;margin-left:1050px;}
+		img { margin-left:15px;margin-top:5px;  }
+		img Little{margin-left:20px;}
 	</style>
     <title>Imagem Impacto dos Experimentos</title>
   </head> 
@@ -43,36 +45,36 @@
      </div>	
      <legend id="PrimeiraFraseAcimaDoQuadrado" >Anomaly Correlation</legend>
      <div id="PrimeiroQuadradoPai" >       
-       <div class="QuadradoFilho" ></div>
-	   <div class="QuadradoFilho" ></div>
-	   <div class="QuadradoFilho" ></div>
-	   <div class="QuadradoFilho" ></div>
-	   <div class="QuadradoFilho" ></div>
-	   <div class="QuadradoFilho" ></div>
-	   <div class="QuadradoFilho" ></div>
-	   <div class="QuadradoFilho" ></div>
-	   <div class="QuadradoFilho" ></div>
-	   <div class="QuadradoFilho" ></div>
-	   <div class="QuadradoFilho" ></div>
-	   <div class="QuadradoFilho" ></div>
-	   <div class="QuadradoFilho" ></div>
-	   <div class="QuadradoFilho" ></div>
-	   <div class="QuadradoFilho" ></div>
-	   <div class="QuadradoFilho" ></div>
-	   <div class="QuadradoFilho" ></div>
-	   <div class="QuadradoFilho" ></div>
-	   <div class="QuadradoFilho" ></div>
-	   <div class="QuadradoFilho" ></div>
-	   <div class="QuadradoFilho" ></div>
-	   <div class="QuadradoFilho" ></div>
-	   <div class="QuadradoFilho" ></div>
-	   <div class="QuadradoFilho" ></div>
-	   <div class="QuadradoFilho" ></div>
-	   <div class="QuadradoFilho" ></div>
-	   <div class="QuadradoFilho" ></div>
-	   <div class="QuadradoFilho" ></div>
-	   <div class="QuadradoFilho" ></div>
-	   <div class="QuadradoFilho" ></div>
+           <div class="QuadradoFilho" ><img src="../../images/1.png" alt="" /></div>
+	   <div class="QuadradoFilho" ><img src="../../images/2.png" alt="" /></div>
+	   <div class="QuadradoFilho" ><img src="../../images/3.png" alt="" /></div>
+	   <div class="QuadradoFilho" ><img src="../../images/4.png" alt="" /></div>
+	   <div class="QuadradoFilho" ><img src="../../images/5.png" alt="" /></div>
+	   <div class="QuadradoFilho" ><img src="../../images/5.png" alt="" /></div>
+	   <div class="QuadradoFilho" ><img src="../../images/5.png" alt="" /></div>
+	   <div class="QuadradoFilho" ><img src="../../images/5.png" alt="" /></div>
+	   <div class="QuadradoFilho" ><img src="../../images/5.png" alt="" /></div>
+	   <div class="QuadradoFilho" ><img src="../../images/5.png" alt="" /></div>
+	   <div class="QuadradoFilho" ><img src="../../images/1.png" alt="" /></div>
+	   <div class="QuadradoFilho" ><img src="../../images/1.png" alt="" /></div>
+	   <div class="QuadradoFilho" ><img src="../../images/1.png" alt="" /></div>
+	   <div class="QuadradoFilho" ><img src="../../images/1.png" alt="" /></div>
+	   <div class="QuadradoFilho" ><img src="../../images/1.png" alt="" /></div>
+	   <div class="QuadradoFilho" ><img src="../../images/2.png" alt="" /></div>
+	   <div class="QuadradoFilho" ><img src="../../images/2.png" alt="" /></div>
+	   <div class="QuadradoFilho" ><img src="../../images/2.png" alt="" /></div>
+	   <div class="QuadradoFilho" ><img src="../../images/2.png" alt="" /></div>
+	   <div class="QuadradoFilho" ><img src="../../images/2.png" alt="" /></div>
+	   <div class="QuadradoFilho" ><img src="../../images/3.png" alt="" /></div>
+	   <div class="QuadradoFilho" ><img src="../../images/3.png" alt="" /></div>
+	   <div class="QuadradoFilho" ><img src="../../images/3.png" alt="" /></div>
+	   <div class="QuadradoFilho" ><img src="../../images/3.png" alt="" /></div>
+	   <div class="QuadradoFilho" ><img src="../../images/3.png" alt="" /></div>
+	   <div class="QuadradoFilho" ><img src="../../images/4.png" alt="" /></div>
+	   <div class="QuadradoFilho" ><img src="../../images/4.png" alt="" /></div>
+	   <div class="QuadradoFilho" ><img src="../../images/4.png" alt="" /></div>
+	   <div class="QuadradoFilho" ><img src="../../images/4.png" alt="" /></div>
+	   <div class="QuadradoFilho" ><img src="../../images/4.png" alt="" /></div>
 	   <div class="QuadradoFilho" ></div>
 	   <div class="QuadradoFilho" ></div>
 	   <div class="QuadradoFilho" ></div>
